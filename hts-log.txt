@@ -1,0 +1,32 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 03 Dec 2024 17:54:17 at https://basescans.org/tokenapprovalchecker +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://basescans.org/tokenapprovalchecker -O1 "D:\NNK\jules" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:54:22	Error: 	"Not Found" (404) at link https://basescans.org/assets/svg/patterns/waves.svg (from https://basescans.org/)
+17:54:22	Error: 	"Not Found" (404) at link https://basescans.org/assets/svg/patterns/waves-light.svg (from https://basescans.org/)
+17:54:28	Error: 	"Not Found" (404) at link https://basescans.org/$&/ (from https://basescans.org/assets/index-BNPp0vSl.js)
+17:54:28	Error: 	"Not Found" (404) at link https://basescans.org/x,w (from https://basescans.org/assets/index-BNPp0vSl.js)
+17:54:28	Error: 	"Not Found" (404) at link https://basescans.org/Trident/ (from https://basescans.org/assets/index-BNPp0vSl.js)
+17:54:28	Error: 	"Not Found" (404) at link https://basescans.org/ethers.js (from https://basescans.org/assets/index-BNPp0vSl.js)
+17:54:28	Error: 	"Not Found" (404) at link https://basescans.org/For more details: https://docs.ethers.io/api-keys/ (from https://basescans.org/assets/index-BNPp0vSl.js)
+17:54:28	Error: 	"Not Found" (404) at link https://basescans.org/webfonts/fa-brands-400.woff2 (from https://basescans.org/assets/index-BMpjedpE.css)
+17:54:28	Error: 	"Not Found" (404) at link https://basescans.org/webfonts/fa-brands-400.ttf (from https://basescans.org/assets/index-BMpjedpE.css)
+17:54:28	Error: 	"Not Found" (404) at link https://basescans.org/webfonts/fa-duotone-900.woff2 (from https://basescans.org/assets/index-BMpjedpE.css)
+17:54:28	Error: 	"Not Found" (404) at link https://basescans.org/webfonts/fa-duotone-900.ttf (from https://basescans.org/assets/index-BMpjedpE.css)
+17:54:28	Error: 	"Not Found" (404) at link https://basescans.org/webfonts/fa-light-300.woff2 (from https://basescans.org/assets/index-BMpjedpE.css)
+17:54:28	Error: 	"Not Found" (404) at link https://basescans.org/webfonts/fa-light-300.ttf (from https://basescans.org/assets/index-BMpjedpE.css)
+17:54:28	Error: 	"Not Found" (404) at link https://basescans.org/webfonts/fa-regular-400.woff2 (from https://basescans.org/assets/index-BMpjedpE.css)
+17:54:28	Error: 	"Not Found" (404) at link https://basescans.org/webfonts/fa-regular-400.ttf (from https://basescans.org/assets/index-BMpjedpE.css)
+17:54:28	Error: 	"Not Found" (404) at link https://basescans.org/webfonts/fa-solid-900.woff2 (from https://basescans.org/assets/index-BMpjedpE.css)
+17:54:28	Error: 	"Not Found" (404) at link https://basescans.org/webfonts/fa-solid-900.ttf (from https://basescans.org/assets/index-BMpjedpE.css)
+17:54:28	Error: 	"Not Found" (404) at link https://basescans.org/webfonts/fa-thin-100.woff2 (from https://basescans.org/assets/index-BMpjedpE.css)
+17:54:28	Error: 	"Not Found" (404) at link https://basescans.org/webfonts/fa-thin-100.ttf (from https://basescans.org/assets/index-BMpjedpE.css)
+17:54:28	Error: 	"Not Found" (404) at link https://basescans.org/webfonts/fa-v4compatibility.woff2 (from https://basescans.org/assets/index-BMpjedpE.css)
+17:54:28	Error: 	"Not Found" (404) at link https://basescans.org/webfonts/fa-v4compatibility.ttf (from https://basescans.org/assets/index-BMpjedpE.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 11 seconds : 27 links scanned, 5 files written (3076971 bytes overall) [826310 bytes received at 75119 bytes/sec], 3129727 bytes transferred using HTTP compression in 27 files, ratio 25%, 7.0 requests per connection
+(21 errors, 0 warnings, 0 messages)
